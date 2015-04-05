@@ -1,6 +1,9 @@
-#   ----------------------------		        UnitedForce COD4 stats  			  ----------------------------
-#   ----------------------------		              By Mr.ShowOff   			 		  ----------------------------
-#   ----------------------------		Copyright (C) 2013-2015 Mr.ShowOff     ----------------------------
+#!/usr/bin/python
+
+# Author : Shirish Saxena
+# Version : 0.43v
+# Copyright to Shirish [ me@shirish.me ] @ 2015
+
 
 import time
 import socket
